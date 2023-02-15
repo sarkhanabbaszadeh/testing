@@ -1,3 +1,7 @@
 // just comment
 Console.log("Hello github")
 Console.log("testing") // 2nd comment testing
+
+function main(){
+return null;
+}
