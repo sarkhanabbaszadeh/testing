@@ -1,10 +1,8 @@
-// just comment
-Console.log("Hello github")
-Console.log("testing") // 2nd comment testing
+//github desktop
+Console.log("Hello Word!");
 
 function main(){
-return null;
+    Console.log(999);
 }
 
 main()
-Console.log(main()) // testing...
